@@ -10,4 +10,4 @@ Por aqui desde 2014 retribuindo um pouco o que a comunidade opensource me propor
 
 Recentemente venho contribuindo através da <a href="https://supliu.com.br">Supliu Tecnologia</a>, empresa de desenvolvimento de software que fundei junto com o <a href="https://github.com/thiagoneres">@thiagoneres</a>. 
 
-Sigam o perfil dela aqui no GitHub <a href="https://github.com/supliu">https://github.com/supliu</a>
+Segue o perfil dela aqui no GitHub <a href="https://github.com/supliu">https://github.com/supliu</a>
